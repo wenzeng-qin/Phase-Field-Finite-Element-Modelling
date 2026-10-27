@@ -4,7 +4,7 @@ Silicon can store a large amount of lithium, making it attractive for rechargeab
 
 This project aims to reproduce a published model of that feedback in silicon nanowire electrodes. It uses a phase-field formulation, which describes material behaviour through continuous fields and free energy, and the finite element method (FEM), which divides the electrode into small elements to solve the equations numerically.
 
-**Status:** reproduction project; agreement with the paper's results has not yet been established. The model studies lithium insertion into an individual electrode, rather than a complete battery.
+**Status:** Agreement with the paper's results has not yet been established. The model studies lithium insertion into an individual electrode, rather than a complete battery.
 
 ## Questions
 
