@@ -2,7 +2,9 @@
 
 Silicon can store a large amount of lithium, making it attractive for rechargeable batteries. However, it swells as lithium enters. Uneven swelling creates internal stress, which can contribute to damage and also change how quickly lithium moves.
 
-This project aims to reproduce a published model of that feedback in silicon nanowire electrodes. It uses a phase-field formulation, which describes material behaviour through continuous fields and free energy, and the finite element method (FEM), which divides the electrode into small elements to solve the equations numerically.
+The aim is to reproduce a published model of that feedback in silicon nanowire electrodes. It uses a phase-field formulation, which describes material behaviour through continuous fields and free energy, and the finite element method (FEM), which divides the electrode into small elements to solve the equations numerically.
+
+Note: This repo is created for documenting the implementation of the code I have written in the computational project, where I will also be going through the results and possible Machine Learning extension. It is a collaboration with one of the coauthor of research paper Professor Masoud Ahmadi. The code heavily utilises Firedrake, an external python library optimised for solving PDE with FEM.
 
 **Status:** Agreement with the paper's results has not yet been established. The model studies lithium insertion into an individual electrode, rather than a complete battery.
 
