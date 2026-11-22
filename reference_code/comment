@@ -1,0 +1,1 @@
+This folder contains the reference code used for implementing my solver, the original sample code uses a 2D mesh instead of 1D which greatly increase computation cost and also create it own independent mesh.
